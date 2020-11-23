@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nickslice.github.io/my-app/static/css/main.d76549fb.chunk.css",
-    "main.js": "/nickslice.github.io/my-app/static/js/main.b1a816ed.chunk.js",
-    "main.js.map": "/nickslice.github.io/my-app/static/js/main.b1a816ed.chunk.js.map",
+    "main.js": "/nickslice.github.io/my-app/static/js/main.6227f811.chunk.js",
+    "main.js.map": "/nickslice.github.io/my-app/static/js/main.6227f811.chunk.js.map",
     "runtime-main.js": "/nickslice.github.io/my-app/static/js/runtime-main.8ebcce65.js",
     "runtime-main.js.map": "/nickslice.github.io/my-app/static/js/runtime-main.8ebcce65.js.map",
     "static/js/2.0a8afe6a.chunk.js": "/nickslice.github.io/my-app/static/js/2.0a8afe6a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.8ebcce65.js",
     "static/js/2.0a8afe6a.chunk.js",
     "static/css/main.d76549fb.chunk.css",
-    "static/js/main.b1a816ed.chunk.js"
+    "static/js/main.6227f811.chunk.js"
   ]
 }
