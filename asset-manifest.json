@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nickslice.github.io/my-app/static/css/main.d76549fb.chunk.css",
-    "main.js": "/nickslice.github.io/my-app/static/js/main.6227f811.chunk.js",
-    "main.js.map": "/nickslice.github.io/my-app/static/js/main.6227f811.chunk.js.map",
-    "runtime-main.js": "/nickslice.github.io/my-app/static/js/runtime-main.8ebcce65.js",
-    "runtime-main.js.map": "/nickslice.github.io/my-app/static/js/runtime-main.8ebcce65.js.map",
-    "static/js/2.0a8afe6a.chunk.js": "/nickslice.github.io/my-app/static/js/2.0a8afe6a.chunk.js",
-    "static/js/2.0a8afe6a.chunk.js.map": "/nickslice.github.io/my-app/static/js/2.0a8afe6a.chunk.js.map",
-    "static/js/3.00722728.chunk.js": "/nickslice.github.io/my-app/static/js/3.00722728.chunk.js",
-    "static/js/3.00722728.chunk.js.map": "/nickslice.github.io/my-app/static/js/3.00722728.chunk.js.map",
-    "index.html": "/nickslice.github.io/my-app/index.html",
-    "static/css/main.d76549fb.chunk.css.map": "/nickslice.github.io/my-app/static/css/main.d76549fb.chunk.css.map",
-    "static/js/2.0a8afe6a.chunk.js.LICENSE.txt": "/nickslice.github.io/my-app/static/js/2.0a8afe6a.chunk.js.LICENSE.txt",
-    "static/media/clouds.051c1340.svg": "/nickslice.github.io/my-app/static/media/clouds.051c1340.svg",
-    "static/media/logo.2d27ead7.svg": "/nickslice.github.io/my-app/static/media/logo.2d27ead7.svg"
+    "main.css": "/my-app/static/css/main.d76549fb.chunk.css",
+    "main.js": "/my-app/static/js/main.6227f811.chunk.js",
+    "main.js.map": "/my-app/static/js/main.6227f811.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.83dcb64d.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.83dcb64d.js.map",
+    "static/js/2.0a8afe6a.chunk.js": "/my-app/static/js/2.0a8afe6a.chunk.js",
+    "static/js/2.0a8afe6a.chunk.js.map": "/my-app/static/js/2.0a8afe6a.chunk.js.map",
+    "static/js/3.00722728.chunk.js": "/my-app/static/js/3.00722728.chunk.js",
+    "static/js/3.00722728.chunk.js.map": "/my-app/static/js/3.00722728.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.d76549fb.chunk.css.map": "/my-app/static/css/main.d76549fb.chunk.css.map",
+    "static/js/2.0a8afe6a.chunk.js.LICENSE.txt": "/my-app/static/js/2.0a8afe6a.chunk.js.LICENSE.txt",
+    "static/media/clouds.051c1340.svg": "/my-app/static/media/clouds.051c1340.svg",
+    "static/media/logo.2d27ead7.svg": "/my-app/static/media/logo.2d27ead7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ebcce65.js",
+    "static/js/runtime-main.83dcb64d.js",
     "static/js/2.0a8afe6a.chunk.js",
     "static/css/main.d76549fb.chunk.css",
     "static/js/main.6227f811.chunk.js"
